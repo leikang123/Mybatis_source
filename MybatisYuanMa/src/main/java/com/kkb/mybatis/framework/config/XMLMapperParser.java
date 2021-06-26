@@ -3,7 +3,8 @@ package com.kkb.mybatis.framework.config;
 import java.util.List;
 
 import org.dom4j.Element;
-
+/**写的是mapper对应的映射类，对应的类，映射到数据源查找
+*/
 public class XMLMapperParser {
 
 	private Configuration configuration;
