@@ -10,6 +10,8 @@ import org.dom4j.Element;
 
 import com.kkb.mybatis.framework.sqlsession.DocumentReader;
 
+// 解析器的解析类配置
+
 public class XMLConfigParser {
 
 	private Configuration configuration;
