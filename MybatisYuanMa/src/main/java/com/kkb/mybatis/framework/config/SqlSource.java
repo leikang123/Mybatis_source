@@ -3,6 +3,7 @@ package com.kkb.mybatis.framework.config;
 import com.kkb.mybatis.framework.utils.GenericTokenParser;
 import com.kkb.mybatis.framework.utils.ParameterMappingTokenHandler;
 
+// 数据库的数据解析类
 public class SqlSource {
 	private String sqlText;
 
