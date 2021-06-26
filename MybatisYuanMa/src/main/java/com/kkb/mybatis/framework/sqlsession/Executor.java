@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.kkb.mybatis.framework.config.Configuration;
 import com.kkb.mybatis.framework.config.MappedStatement;
+// 执行器接口
 
 public interface Executor {
 
