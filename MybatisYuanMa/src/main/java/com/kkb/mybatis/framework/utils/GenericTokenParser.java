@@ -90,5 +90,6 @@ public class GenericTokenParser {
       builder.append(src, offset, src.length - offset);
     }
     return builder.toString();
+    
   }
 }
