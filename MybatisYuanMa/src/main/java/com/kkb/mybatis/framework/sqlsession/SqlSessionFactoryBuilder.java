@@ -28,7 +28,7 @@ public class SqlSessionFactoryBuilder {
 		configuration = xmlConfigParser.parseConfiguration(document.getRootElement());
 		return build();
 	}
-
+       // 构建
 	public SqlSessionFactory build(Reader reader) {
 		return build();
 	}
