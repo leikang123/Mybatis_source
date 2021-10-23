@@ -21,6 +21,7 @@ package com.kkb.mybatis.framework.utils;
  */
 
 public interface TokenHandler {
+ 
   String handleToken(String content);
 }
 
